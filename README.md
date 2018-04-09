@@ -10,20 +10,32 @@ Building an interactive unity game in order to build a village by making it rain
 
 
 <h1> Contributers </h1>
-1. Bouligny, Jonathan
-2. Datta, Prerit
-3. Pardeshi, Amitsingh
+<ul>
+  <li>Bouligny, Jonathan </li>
+  <li>Datta, Prerit</li>
+  <li>Pardeshi, Amitsingh</li>
+</ul>
+ 
 
 <h1> Technologies Used </h1>
-1. Unity
-2. Oculus Rift Controller
-3. C# Scripts
+
+<ul>
+  <li>Unity </li>
+  <li>Oculus Rift Controller</li>
+  <li>C# Scripts</li>
+</ul>
+ 
+
 
 <h1> Challenges Faced </h1>
-1. Integration with oculus hardware - This was the biggest issue we faced as a team becasue we did had limited access to Oculus hardware during develpment process. During the testing phase of the project we had to fix lot many hard integration issues which were time consuming.
-Lesson Learnt - Always test your code in chunks on the actual hardware rathar than devloping entire application and then testing on actual hardware.
-2. Learning Curve - As we were new to the unity, the learning curve was steep and team has to spend lot of time learning the technology.
-3. Repository management - Using GIT for code repository was not helpful. Instead, we went for Unity Collaborators for repository manamgement after servaral failed attempt with GIT.
+
+<ul>
+  <li>Integration with oculus hardware - This was the biggest issue we faced as a team becasue we did had limited access to Oculus hardware during develpment process. During the testing phase of the project we had to fix lot many hard integration issues which were time consuming. </br>
+  Lesson Learnt - Always test your code in chunks on the actual hardware rathar than devloping entire application and then testing on actual hardware.
+  <li> Learning Curve - As we were new to the unity, the learning curve was steep and team has to spend lot of time learning the technology.</li>
+  <li>Repository management - Using GIT for code repository was not helpful. Instead, we went for Unity Collaborators for repository manamgement after servaral failed attempt with GIT.</li>
+</ul>
+
 
 ### Link to Project Scenes:
 
