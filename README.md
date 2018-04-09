@@ -56,6 +56,8 @@ Use oculus Rift controller to operate the plane.
   <li>Joy Stick to move plane left and right</li>
   <li> Press key Y to release chemicals.
 </ul>
+
+
 ![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/oculus-touch-teardown.jpg)
 
 Use Keyboard to operate the plane on PC.
@@ -63,10 +65,13 @@ Use Keyboard to operate the plane on PC.
   <li>WASD - To Move plane</li>
   <li> Press space key to release chemicals.
 </ul>
+
+
 ![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/wasd.png)
 
 <br></br>
 Release Chemicals
+
 ![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/cloud_step2.PNG)
 
 
@@ -85,20 +90,24 @@ Use oculus Rift controller to operate the player movement.
 <ul>
   <li>Joy Stick to move player in all direction</li>
 </ul>
+
 ![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/oculus-touch-teardown.jpg)
 
 Use Keyboard to operate the plane on PC.
 <ul>
   <li>WASD - To Move plane</li>
 </ul>
+
 ![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/wasd.png)
 
 <br></br>
 After the Aquaduct is build.
+
 ![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/aqua_step3.PNG)
 
 <br></br>
 After filling water in lake but before player cleans the lake.
+
 ![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/aqua_step4.PNG)
 
 
