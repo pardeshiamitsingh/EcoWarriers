@@ -5,7 +5,7 @@
 Please click to watch overview video [TO DO].
 
 <h1> Project Description </h1>
-Building an interactive unity game in order to build a village by making it rain artificially using Jet plane by showering chemicals on the clouds ro cede clouds to get the water for the villagers. Also finding the already existing water resources in the area. Storing the rain water into the lake by creating aqueducts from river stream generating by raining and cleaning the water resource(lake) so that lake water can be kept clean which can be used by villagers.
+Building an interactive unity game in order to build a village by making it rain artificially using Jet plane by showering chemicals on the clouds to seed clouds to get the water for the villagers. Also finding the already existing water resources in the area. Storing the rain water into the lake by creating aqueducts from river stream generating by raining and cleaning the water resource(lake) so that lake water can be kept clean which can be used by villagers.
 
 
 
@@ -36,6 +36,18 @@ Building an interactive unity game in order to build a village by making it rain
   <li>Repository management - Using GIT for code repository was not helpful. Instead, we went for Unity Collaborators for repository manamgement after servaral failed attempt with GIT.</li>
 </ul>
 
+<h1> How To Play</h1>
+
+<h3>Clouds Level</h3>
+Use the plane to spray chemical on the clouds above to make the thunder which in turn will lead to artificial rain. Once the player is successfully able to seed certain number of clouds( which is configurable in our code) the player clears this level.
+
+Initial Cloud Scene where you player can see.
+<ul>
+  <li>Time Remaining</li>
+   <li>Players Health</li>
+   <li>Chemical Tank Reading</li>
+   <li>Clouds seeded</li>
+</ul>
 
 ### Link to Project Scenes:
 
