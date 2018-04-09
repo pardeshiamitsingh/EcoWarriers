@@ -95,7 +95,7 @@ Use oculus Rift controller to operate the player movement.
 
 Use Keyboard to operate the plane on PC.
 <ul>
-  <li>WASD - To Move plane</li>
+  <li>WASD - To Move player</li>
 </ul>
 
 ![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/wasd.png)
@@ -113,16 +113,42 @@ After filling water in lake but before player cleans the lake.
 
 
 
-### Link to Project Scenes:
+<h3>Find Water Level [TODO - SUGGEST BETTER NAME PLEASE]</h3>
+Player will have to search water resources in the dessert by following clues. [PLEASE ELABORATE] 
+<br>
+Player can see
+<ul>
+  <li>Dalyligh Remaining</li>
+   <li>Items Remaining/li>
+</ul>
+
+![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/Aqua_Step1.PNG)
+
+Use oculus Rift controller to operate the player movement.
+<ul>
+  <li>Joy Stick to move player in all direction</li>
+</ul>
+
+![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/oculus-touch-teardown.jpg)
+
+Use Keyboard to operate the plane on PC.
+<ul>
+  <li>WASD - To Move player</li>
+</ul>
+
+![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/wasd.png)
+
+<br></br>
+After player finds water resources.
+
+![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/Dessert_Step2.PNG)
+
+<br></br>
+After the level is cleared.
+
+![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/dessert_step4.PNG)
 
 
-#### 1. Scene:  Desert
-[Link to Scene](https://github.com/prd90/UnityDesert)
 
-#### 2. Scene:  Mountain - Amit
-#### 3. Scene:  Lake - Amit
-[Link to Scene](https://github.com/pardeshiamitsingh/UnityLakeAndMountains)
-
-#### 4. Scene:  Cloud
 
 
