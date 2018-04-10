@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 2fcb7a6681e44d84a8b86fa86179c851
+  - enabled: 1
+    path: Assets/Scenes/Village.unity
+    guid: cddc26cd6ac175f4f91b13b3eebb42af
+  - enabled: 1
+    path: Assets/Scenes/Aqueduct.unity
+    guid: 7b5a75c2a24ec004ba6ec7c4076ab830
+  - enabled: 1
+    path: Assets/Scenes/Clouds.unity
+    guid: 32f402a0d100f834ba025f55c61ad735
+  - enabled: 1
+    path: Assets/Scenes/Desert.unity
+    guid: d1b27eb549ecc4bd7a4dc1908c56319e
+  - enabled: 1
+    path: Assets/Scenes/AquaInstructions.unity
+    guid: aa412aa146714cc4eae112af89bacd49
+  - enabled: 1
+    path: Assets/Scenes/DesertInstructions.unity
+    guid: 9fbdd63f2bb054313bcd22eca5979183
+  - enabled: 1
+    path: Assets/Scenes/CloudInstructions.unity
+    guid: f2d5dfd2aa24aad4f800356f9ee71388

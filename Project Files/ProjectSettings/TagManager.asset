@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CloudSeededCounterController
+  - ChemicalTankCounterController
+  - HudWarning
+  - CTC
+  - Marker
+  - Timer
+  - ChemTrailEmitter
+  - Cloud
+  - s3
+  - s1
+  - s0
+  - s4
+  - s2
+  - p3
+  - oilcan
+  - bag
+  - p4
+  - partyhorn
+  - bottle
+  - beer
+  - p1
+  - p2
+  - lake
+  - champagne
+  - CheckPoint
+  - NavPt
+  - ChkPt3
+  - ToCloud
+  - ToAqueduct
+  - ToDesert
+  - GrandGameController
+  - DesertCheckpointSound
+  - Click1
+  - Click2
+  - Click3
+  - Click4
+  - Lighting
+  - Rain
+  - Houses
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - FogVolumeShadowCaster
+  - FogVolume
+  - FogVolumeSurrogate
+  - FogVolumeUniform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
