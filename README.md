@@ -126,7 +126,7 @@ The player has to collect "Magical blue orbs" before it gets dark. As soon as th
 In the scene, a Player can see:
 <ul>
   <li>Daylight Remaining</li>
-   <li>Items Remaining/li>
+   <li>Items Remaining</li>
 </ul>
 
 A magic-orb in the scene:
