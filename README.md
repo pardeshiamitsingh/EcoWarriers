@@ -140,14 +140,11 @@ Insects going up an ant-hill:
 ![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/anthill.png)
 
 
-<br/>
-![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/Desert_Step2.PNG)
-
 
 <br></br>
 After the level is cleared:
 
-![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/desert_step4.PNG)
+![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/dessert_step4.PNG)
 
 
 Use oculus Rift controller to operate the player movement.
