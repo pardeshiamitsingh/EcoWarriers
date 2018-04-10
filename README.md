@@ -1,7 +1,8 @@
 # ECO WARRIERS - PROJECT 2
 
 <h1> Video demonstration </h1>
-Please click to watch overview video [TO DO].
+Please click to watch overview video.
+
 [![HelloWorld](http://img.youtube.com/vi/POaRp7FoeCI/0.jpg)](https://www.youtube.com/watch?v=POaRp7FoeCI)
 
 
