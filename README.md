@@ -5,8 +5,11 @@
 Please click to watch overview video [TO DO].
 
 <h1> Project Description </h1>
-Building an interactive unity game in order to build a village by making it rain artificially using Jet plane by showering chemicals on the clouds to seed clouds to get the water for the villagers. Also finding the already existing water resources in the area. Storing the rain water into the lake by creating aqueducts from river stream generating by raining and cleaning the water resource(lake) so that lake water can be kept clean which can be used by villagers.
+An interactive-educational game built in __Unity3D__ to demonstrate the importance of preserving water and various techniques of water Harvesting. The players starts with a *Village Scene*, which is suffering from a severe drought. The player has to finish the various scenes in the game in order to bring back the water to the village and return to its pristine state. Players can start with scenes in any order. These three scenes are enumerated below and are discussed in detail later in this report:
 
+#### 1. Cloud-Seeding Scene
+#### 2. Desert/Semi-arid land Scene
+#### 3. Pipeline Puzzle Scene [MAY Change LATER]
 
 
 <h1> Contributers </h1>
@@ -30,18 +33,21 @@ Building an interactive unity game in order to build a village by making it rain
 <h1> Challenges Faced </h1>
 
 <ul>
-  <li>Integration with oculus hardware - This was the biggest issue we faced as a team becasue we did had limited access to Oculus hardware during develpment process. During the testing phase of the project we had to fix lot many hard integration issues which were time consuming. </br>
-  Lesson Learnt - Always test your code in chunks on the actual hardware rathar than devloping entire application and then testing on actual hardware.
-  <li> Learning Curve - As we were new to the unity, the learning curve was steep and team has to spend lot of time learning the technology.</li>
-  <li>Repository management - Using GIT for code repository was not helpful. Instead, we went for Unity Collaborators for repository manamgement after servaral failed attempt with GIT.</li>
+  <li> <b>Integration with oculus hardware </b>  - This was the biggest challenge that we faced as a team as we had a limited access to the Oculus hardware during the development process. Also, during the testing phase of the project, we had to re-do and adjust various settings in all of our scenes in order to make it work seamlessly with the Oculus Display, which was really time consuming. </br>
+  
+  <li> <b> Learning Curve </b> - Never having used Unity before, the learning curve was steep and we had to spend lot of time getting ourselves acquianted with the Unity Environment and the API.</li>
+  <li> <b> Colloboration </b> - We ran into several issues while using GitHub for collaboration intially. One of the primary issue being the large project size and constant updates needed as one made changes at their end. We ended up using Unity's <i>Collaboration</i> which circumvented the problem of change managements due to its simplicity and seamless integration with the Unity Enviroment </li>
+  
+<li> <b> Oculus API version Incompatibility </b> - Oculus API had certain incompatibility issues with the current version of Unity. Especially with the Mac, which made working with it more difficult. Such as the errors mentioned <a href="https://forums.oculusvr.com/developer/discussion/58002/development-on-macos-high-sierra">here</a>
+  </li>
 </ul>
 
 <h1> How To Play</h1>
 
-<h3>Clouds Level</h3>
-Use the plane to spray chemical on the clouds above to make the thunder which in turn will lead to artificial rain. Once the player is successfully able to seed certain number of clouds( which is configurable in our code) the player clears this level.
+<h3>Cloud-Seeding Level</h3>
+Use the plane to spray the chemicals on the clouds to make induce artificial rain. Once the player seeds a certain number of clouds within the given countdown time, the player wins the level. T
 <br>
-Initial Cloud Scene where player can see.
+The Scene displays certain statistics to the player such as:
 <ul>
   <li>Time Remaining</li>
    <li>Players Health</li>
@@ -51,7 +57,7 @@ Initial Cloud Scene where player can see.
 
 ![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/cloud_step1.PNG)
 
-Use oculus Rift controller to operate the plane.
+Use <b> Oculus Rift <b> controller to operate the plane as follows:
 <ul>
   <li>Joy Stick to move plane left and right</li>
   <li> Press key Y to release chemicals.
@@ -60,7 +66,7 @@ Use oculus Rift controller to operate the plane.
 
 ![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/oculus-touch-teardown.jpg)
 
-Use Keyboard to operate the plane on PC.
+Use <b> Keyboard <b> to operate the plane on PC.
 <ul>
   <li>WASD - To Move plane</li>
   <li> Press space key to release chemicals.
@@ -75,10 +81,10 @@ Release Chemicals
 ![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/cloud_step2.PNG)
 
 
-<h3>Build Aquaduct & Clean Lake Level</h3>
-Player will have to solve the puzzle by arranging pieces to build an aquaduct from river stream to lake so that water will be channelized to lake. In second step player will have to clean garbage from lake water to keep it clean. By cleaning objects from lake layer will get points. Once player has reached preconfiured points then the level is cleared. 
+<h3>Building the Aquaduct & Cleaning the Lake Level</h3>
+Player will have to solve the puzzle by arranging the pipeline pieces to build an aquaduct that will transport water from river stream to a lake. In the second step, player will have to clean the garbage from the lake to make it clean. This can done by clicking on certain objects present in the lake (such as a bottle). The player accumulates points upon collecting and thereby removing those objects from the water. Once player has reached preconfigured number of points, then the level is completed.
 <br>
-Initial Scene where player can see four puzzle pieces which can be used to build an aquaduct. Also player can see.
+Initial Scene where player can see four puzzle pieces which can be used to build an aquaduct. In addition, the player can see.
 <ul>
   <li>Time Remaining</li>
    <li>Score/li>
@@ -113,16 +119,36 @@ After filling water in lake but before player cleans the lake.
 
 
 
-<h3>Find Water Level [TODO - SUGGEST BETTER NAME PLEASE]</h3>
-Player will have to search water resources in the dessert by following clues. [PLEASE ELABORATE] 
+<h3>Surviving in a Desert: Desert/Semi-arid land Scene</h3>
+The player start at a random point in the Desert/semi-arid land scene. The aim of the scene is to look to for certain visual cues that can help someone find water if they happen to be in a desert. For example, the cactus is an indication of the presence of water. Similary, the cliffs collect water when it rains. Also, insects and bugs always have a way of finding nearby water sources.Reference: <a href="https://www.wikihow.com/Find-Water-in-the-Desert"> here </a> <br/>
+
+The player has to collect "Magical blue orbs" before it gets dark. As soon as the player collects the orb, the hidden water source in the vicinity of that orb is unlocked (becomes visible). The player wins, once they collect all the three magical orbs in the scene.
 <br>
-Player can see
+In the scene,a Player can see:
 <ul>
   <li>Dalyligh Remaining</li>
    <li>Items Remaining/li>
 </ul>
 
-![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/Aqua_Step1.PNG)
+************************************
+A magic-orb in the scene:
+![alt text]()
+
+
+
+<br/>
+Insects going to a an-ant hill:
+![alt text]()
+
+
+<br/>
+![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/Dessert_Step2.PNG)
+
+<br></br>
+After the level is cleared.
+
+![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/dessert_step4.PNG)
+
 
 Use oculus Rift controller to operate the player movement.
 <ul>
@@ -137,18 +163,4 @@ Use Keyboard to operate the plane on PC.
 </ul>
 
 ![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/wasd.png)
-
-<br></br>
-After player finds water resources.
-
-![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/Dessert_Step2.PNG)
-
-<br></br>
-After the level is cleared.
-
-![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/dessert_step4.PNG)
-
-
-
-
 
