@@ -43,7 +43,7 @@ An interactive-educational game built in <b>Unity3D</b> to demonstrate the impor
 </ul>
 
 
-<h1> From Initial Design to Actual Game </h1>
+<h1> From Initial Design to the Actual Game </h1>
 The Team initially brainstormed about certain ideas so as to what the game should look like. Initially we decided to have a total of 5 levels, which we later narrowed down to 4 to reduce complexity:
 
 ![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/Design2.png)
@@ -55,68 +55,9 @@ We also discussed, how the overall transition should look like between the scene
 
 
 
-<h1> How To Play</h1>
+<h1>Player Controllers</h1>
+Each scene can be controlled using Oculus controls or W,A,S,D/ Arrows keys for the PC version of the Game.
 
-<h3>Cloud-Seeding Level</h3>
-Use the plane to spray the chemicals on the clouds to make induce artificial rain. Once the player seeds a certain number of clouds within the given countdown time, the player wins the level. T
-<br>
-The Scene displays certain statistics to the player such as:
-<ul>
-  <li>Time Remaining</li>
-   <li>Players Health</li>
-   <li>Chemical Tank Reading</li>
-   <li>Clouds seeded</li>
-</ul>
-
-![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/cloud_step1.PNG)
-
-Use <b> Oculus Rift <b> controller to operate the plane as follows:
-<ul>
-  <li>Joy Stick to move plane left and right</li>
-  <li> Press key Y to release chemicals.
-</ul>
-
-
-![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/oculus-touch-teardown.jpg)
-
-Use <b> Keyboard <b> to operate the plane on PC.
-<ul>
-  <li>WASD - To Move plane</li>
-  <li> Press space key to release chemicals.
-</ul>
-
-
-![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/wasd.png)
-
-<br></br>
-Release Chemicals
-
-![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/cloud_step2.PNG)
-
-
-<h3>Building the Aquaduct & Cleaning the Lake Level</h3>
-Player will have to solve the puzzle by arranging the pipeline pieces to build an aquaduct that will transport water from river stream to a lake. In the second step, player will have to clean the garbage from the lake to make it clean. This can done by clicking on certain objects present in the lake (such as a bottle). The player accumulates points upon collecting and thereby removing those objects from the water. Once player has reached preconfigured number of points, then the level is completed.
-<br>
-Initial Scene where player can see four puzzle pieces which can be used to build an aquaduct. In addition, the player can see.
-<ul>
-  <li>Time Remaining</li>
-   <li>Score/li>
-</ul>
-
-![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/Aqua_Step1.PNG)
-
-
-<br></br>
-After the Aquaduct is built:
-
-![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/aqua_step3.PNG)
-
-<br></br>
-Player has to clean the lake:
-
-![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/aqua_step4.PNG)
-
-<br><br>
 Use oculus Rift controller to operate the player movement.
 <ul>
   <li>Joy Stick to move player in all direction</li>
@@ -131,6 +72,51 @@ Use Keyboard to operate the plane on PC.
 
 ![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/wasd.png)
 
+
+
+<h1>Scenes/Level Descriptions</h1>
+<h3>Cloud-Seeding Level</h3>
+Use the plane to spray the chemicals on the clouds to make induce artificial rain. Once the player seeds a certain number of clouds within the given countdown time, the player wins the level. T
+<br>
+The Scene displays certain statistics to the player such as:
+<ul>
+  <li>Time Remaining</li>
+   <li>Players Health</li>
+   <li>Chemical Tank Reading</li>
+   <li>Clouds seeded</li>
+</ul>
+
+![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/cloud_step1.PNG)
+
+<br></br>
+Release Chemicals
+
+![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/cloud_step2.PNG)
+
+
+<h3>Building the Aquaduct & Cleaning the Lake Level</h3>
+Player will have to solve the puzzle by arranging the pipeline pieces to build an aquaduct that will transport water from river stream to a lake. In the second step, player will have to clean the garbage from the lake to make it clean. This can done by clicking on certain objects present in the lake (such as a bottle). The player accumulates points upon collecting and thereby removing those objects from the water. Once player has reached preconfigured number of points, then the level is completed.
+<br>
+Initial Scene where player can see four puzzle pieces which can be used to build an aquaduct. In addition, the player can see.
+<ul>
+  <li>Time Remaining</li>
+   <li>Score</li>
+</ul>
+
+![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/Aqua_Step1.PNG)
+
+
+<br></br>
+After the Aquaduct is built:
+
+![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/aqua_step3.PNG)
+
+<br></br>
+Now, the Player has to clean the lake:
+
+![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/aqua_step4.PNG)
+
+<br><br>
 
 <h3>Surviving in a Desert: Desert/Semi-arid land Scene</h3>
 The player start at a random point in the Desert/semi-arid land scene. The aim of the scene is to look to for certain visual cues that can help someone find water if they happen to be in a desert. For example, the cactus is an indication of the presence of water. Similary, the cliffs collect water when it rains. Also, insects and bugs always have a way of finding nearby water sources.Reference: <a href="https://www.wikihow.com/Find-Water-in-the-Desert"> here </a> <br/>
@@ -161,17 +147,31 @@ After the level is cleared:
 ![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/dessert_step4.PNG)
 
 
-Use oculus Rift controller to operate the player movement.
-<ul>
-  <li>Joy Stick to move player in all direction</li>
-</ul>
+<h1>Assets/References Used</h1>
+<h4>Textures Used:</h4>
+https://www.textures.com/download/3dscans0016/126285?q=sand 
 
-![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/oculus-touch-teardown.jpg)
+https://www.textures.com/download/soilcracked0157/66844?q=sand
 
-Use Keyboard to operate the plane on PC.
-<ul>
-  <li>WASD - To Move player</li>
-</ul>
+https://www.textures.com/download/rockblocky0072/91987?q=rock 
 
-![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/wasd.png)
+https://www.textures.com/download/rocksmootherosion0012/90696?q=rock 
 
+https://www.textures.com/download/soilmud0004/9525?q=mud 
+
+<h4>Ant Model: </h4>
+https://www.turbosquid.com/3d-models/3d-model-formica-rufa-ant/388875
+
+<h4>Bull Skull: </h4>
+
+https://assetstore.unity.com/packages/3d/characters/animals/bull-skull-5846 
+
+<h4>Scripts</h4>
+http://twiik.net/articles/simplest-possible-day-night-cycle-in-unity-5 
+
+<h4>Sounds:</h4>
+(Collect item):
+https://freesound.org/people/YOH/sounds/169375/ 
+
+(Stream sound):
+https://freesound.org/people/InspectorJ/sounds/339324/ 
