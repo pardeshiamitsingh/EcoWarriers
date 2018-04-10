@@ -92,6 +92,18 @@ Initial Scene where player can see four puzzle pieces which can be used to build
 
 ![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/Aqua_Step1.PNG)
 
+
+<br></br>
+After the Aquaduct is built:
+
+![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/aqua_step3.PNG)
+
+<br></br>
+Player has to clean the lake:
+
+![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/aqua_step4.PNG)
+
+<br><br>
 Use oculus Rift controller to operate the player movement.
 <ul>
   <li>Joy Stick to move player in all direction</li>
@@ -106,27 +118,15 @@ Use Keyboard to operate the plane on PC.
 
 ![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/wasd.png)
 
-<br></br>
-After the Aquaduct is build.
-
-![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/aqua_step3.PNG)
-
-<br></br>
-After filling water in lake but before player cleans the lake.
-
-![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/aqua_step4.PNG)
-
-
-
 
 <h3>Surviving in a Desert: Desert/Semi-arid land Scene</h3>
 The player start at a random point in the Desert/semi-arid land scene. The aim of the scene is to look to for certain visual cues that can help someone find water if they happen to be in a desert. For example, the cactus is an indication of the presence of water. Similary, the cliffs collect water when it rains. Also, insects and bugs always have a way of finding nearby water sources.Reference: <a href="https://www.wikihow.com/Find-Water-in-the-Desert"> here </a> <br/>
 
 The player has to collect "Magical blue orbs" before it gets dark. As soon as the player collects the orb, the hidden water source in the vicinity of that orb is unlocked (becomes visible). The player wins, once they collect all the three magical orbs in the scene.
 <br>
-In the scene,a Player can see:
+In the scene, a Player can see:
 <ul>
-  <li>Dalyligh Remaining</li>
+  <li>Daylight Remaining</li>
    <li>Items Remaining/li>
 </ul>
 
