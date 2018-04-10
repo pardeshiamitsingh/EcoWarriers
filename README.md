@@ -42,6 +42,19 @@ An interactive-educational game built in <b>Unity3D</b> to demonstrate the impor
   </li>
 </ul>
 
+
+<h1> From Initial Design to Actual Game </h1>
+The Team initially brainstormed about certain ideas so as to what the game should look like. Initially we decided to have a total of 5 levels, which we later narrowed down to 4 to reduce complexity:
+
+![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/Design2.png)
+
+We also discussed, how the overall transition should look like between the scenes:
+
+![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/Design1.png)
+
+
+
+
 <h1> How To Play</h1>
 
 <h3>Cloud-Seeding Level</h3>
