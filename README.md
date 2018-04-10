@@ -130,16 +130,17 @@ In the scene, a Player can see:
    <li>Items Remaining/li>
 </ul>
 
-************************************
 A magic-orb in the scene:
 ![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/orb.png)
 
 
-<br/>
+<br>
 Insects going up an ant-hill:
+
 ![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/anthill.png)
 
-
+A water sources is unlocked after orb is collected:
+![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/Dessert_Step2.PNG)
 
 <br></br>
 After the level is cleared:
