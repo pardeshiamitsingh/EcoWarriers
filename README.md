@@ -1,10 +1,10 @@
 # ECO WARRIERS - PROJECT 2
 
 <h1> Video demonstration </h1>
-
-[![HelloWorld](https://www.youtube.com/watch?v=POaRp7FoeCI)](https://www.youtube.com/watch?v=POaRp7FoeCI)
-
 Please click to watch overview video [TO DO].
+[![HelloWorld](http://img.youtube.com/vi/POaRp7FoeCI/0.jpg)](https://www.youtube.com/watch?v=POaRp7FoeCI)
+
+
 
 <h1> Project Description </h1>
 An interactive-educational game built in <b>Unity3D</b> to demonstrate the importance of preserving water and various techniques of water Harvesting. The players starts with a <i>Village Scene</i>, which is suffering from a severe drought. The player has to finish the various scenes in the game in order to bring back the water to the village and return to its pristine state. Players can start with scenes in any order. These three scenes are enumerated below and are discussed in detail later in this report:
