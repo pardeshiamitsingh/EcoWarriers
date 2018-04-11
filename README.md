@@ -12,7 +12,7 @@ An interactive-educational game built in <b>Unity3D</b> to demonstrate the impor
 
 #### 1. Cloud-Seeding Scene
 #### 2. Desert/Semi-arid land Scene
-#### 3. Pipeline Puzzle Scene [MAY Change LATER]
+#### 3. Aqueduct Puzzle
 
 
 <h1> Contributers </h1>
