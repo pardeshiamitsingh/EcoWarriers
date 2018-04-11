@@ -1,4 +1,4 @@
-# ECO WARRIERS - PROJECT 2
+# ECO WARRIORS - PROJECT 2
 
 <h1> Video demonstration </h1>
 Please click to watch overview video.
@@ -148,6 +148,20 @@ A water sources is unlocked after orb is collected:
 After the level is cleared:
 
 ![alt text](https://github.com/pardeshiamitsingh/EcoWarriers/blob/master/snapshots/dessert_step4.PNG)
+
+## Individual Contributions to the Project
+
+### Amitsingh Pardeshi
+1. Create Aqueduct Scene
+2. Created Initial draft for the report
+
+### Jonathan Bouligny
+1. Create Cloud-seeding Scene
+2. Helped in Integrating project
+
+### Prerit Datta
+1. Created the Desert scene
+2. Created the final version of this report 
 
 
 <h1>Assets/References Used</h1>
